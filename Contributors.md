@@ -19,6 +19,7 @@
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
+- [Siphiwe Khoza](https://github.com/Qamar30)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
